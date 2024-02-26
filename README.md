@@ -75,8 +75,8 @@ Depending on the wizard’s house the initial stats are as follows:
 Wizards who participate in the tournament i.e. champions get special traits depending on their house and the tournament task. These traits act like a special action that can be applied only by champions belonging to the house and only during a certain task. However, activating a trait is not counted as a move and thus can be applied alongside casting a spell or navigating the map. An exception to this is champions of the Slytherin house, whose trait is counted a move. Upon activating a special trait the champion needs to wait a specific number of game turns (designated “trait cooldown”) before being allowed to activate it again. 
 The following table illustrates these traits:
 
-| House/ Map | Task 1 | Task 2 | Task 3 |
-| ---------- | ------ | ------ | ------ |
+| House / Map | Task 1 | Task 2 | Task 3 |
+| ----------- | ------ | ------ | ------ |
 | Gryffindor | This turn, the champion can make 2 moves instead of 1 (Cooldown: 4) | This turn, the champion can make 2 moves instead of 1 (Cooldown: 4) | This turn, the champion can make 2 moves instead of 1 (Cooldown: 4) |
 | Slytherin |  This turn, the champion can choose between: 1. Jumping over a cell containing an obstacle without destroying or moving the obstacle; provided that he ends up in an empty cell. 2. Traversing two cells instead of one (Cooldown: 6) | This turn, the champion’s movement traverses two cells instead of one; provided that he ends up in an empty cell (Cooldown: 4) | This turn, the champion can choose between: 1. Moving through a wall given that the cell he ends up in is not another wall 2. Jumping over a cell containing an obstacle without destroying or moving the obstacle; provided that he ends up in an empty cell. 3. Traversing two cells instead of one (Cooldown: 10) |
 | Hufflepuff | This turn, the dragon does not attack (Cooldown: 3) | This turn, the merpeople will not do any damage (Cooldown: 6) | Attacks from other champions will only deal half the damage (Always activated, no cooldown) |
