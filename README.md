@@ -63,21 +63,12 @@ Depending on the wizard’s house the initial stats are as follows:
 
 #### Wizard Stats:
 
-House / Stat
-HP
-IP
-Gryffindor
-900
-500
-Slytherin
-850
-550
-Hufflepuff
-1000
-450
-Ravenclaw
-750
-700
+| House / Stat | HP | IP  |
+| ---------- | ---- | --- |
+| Gryffindor | 900  | 500 |
+| Slytherin  | 850  | 550 |
+| Hufflepuff | 1000 | 450 |
+| Ravenclaw  | 750  | 700 |
 
 #### Special Traits:
 
