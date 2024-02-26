@@ -76,6 +76,7 @@ Wizards who participate in the tournament i.e. champions get special traits depe
 The following table illustrates these traits:
 
 | House/ Map | Task 1 | Task 2 | Task 3 |
+| ---------- | ------ | ------ | ------ |
 | Gryffindor | This turn, the champion can make 2 moves instead of 1 (Cooldown: 4) | This turn, the champion can make 2 moves instead of 1 (Cooldown: 4) | This turn, the champion can make 2 moves instead of 1 (Cooldown: 4) |
 | Slytherin |  This turn, the champion can choose between: 1. Jumping over a cell containing an obstacle without destroying or moving the obstacle; provided that he ends up in an empty cell. 2. Traversing two cells instead of one (Cooldown: 6) | This turn, the champion’s movement traverses two cells instead of one; provided that he ends up in an empty cell (Cooldown: 4) | This turn, the champion can choose between: 1. Moving through a wall given that the cell he ends up in is not another wall 2. Jumping over a cell containing an obstacle without destroying or moving the obstacle; provided that he ends up in an empty cell. 3. Traversing two cells instead of one (Cooldown: 10) |
 | Hufflepuff | This turn, the dragon does not attack (Cooldown: 3) | This turn, the merpeople will not do any damage (Cooldown: 6) | Attacks from other champions will only deal half the damage (Always activated, no cooldown) |
